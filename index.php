@@ -6,8 +6,7 @@
 </head>
 <body <?php body_class(); ?>>
     <?php wp_body_open(); ?>
-    <p>dummy texts is this even working</p>
-
+    <p>dummy texts is this even working. Lets see if another works</p>
     <?php wp_footer(); ?>
 </body>
 </html>
